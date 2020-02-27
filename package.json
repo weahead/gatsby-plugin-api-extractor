@@ -1,6 +1,6 @@
 {
   "name": "@weahead/gatsby-plugin-api-extractor",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Copies api folders from configured Gatsby plugins and manually specified dependencies to root.",
   "main": "index.js",
   "files": [
