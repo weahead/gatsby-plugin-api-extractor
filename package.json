@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "description": "Copies api folders from configured Gatsby plugins and manually specified dependencies to root.",
   "main": "index.js",
-  "scripts": {},
+  "files": [
+    "gatsby-node.js",
+    "index.js"
+  ],
   "keywords": [
     "gatsby",
     "plugin",
