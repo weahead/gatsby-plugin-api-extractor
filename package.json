@@ -16,5 +16,8 @@
   "license": "X11",
   "dependencies": {
     "fs-extra": "8.1.0"
+  },
+  "devDependencies": {
+    "@weahead/tooling": "0.1.0"
   }
 }
