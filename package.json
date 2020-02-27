@@ -1,0 +1,23 @@
+{
+  "name": "@weahead/gatsby-plugin-api-extractor",
+  "version": "0.1.0",
+  "description": "Copies api folders from configured Gatsby plugins and manually specified dependencies to root.",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [
+    "gatsby",
+    "plugin",
+    "gatsby-plugin",
+    "api",
+    "zeit",
+    "now"
+  ],
+  "author": "We ahead <alla@weahead.se>",
+  "license": "X11",
+  "dependencies": {
+    "fs-extra": "8.1.0"
+  },
+  "devDependencies": {
+    "@weahead/tooling": "0.1.0"
+  }
+}
